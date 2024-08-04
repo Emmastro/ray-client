@@ -1,0 +1,8 @@
+.env
+venv
+jwt_token.txt
+/tmp
+*.pem
+*.zip
+*copy*.py
+credentials
